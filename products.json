@@ -1,0 +1,51 @@
+[
+    {
+        "id": 1,
+        "name":" Asus Laptop",
+        "price": 200,
+        "image": "images/ASUS Laptop1.png"
+    },
+    {
+        "id": 2,
+        "name":" Asus Laptop",
+        "price": 250,
+        "image": "images/ASUS Laptop2.png"
+    },
+    {
+        "id": 3,
+        "name":" Asus Laptop",
+        "price": 290,
+        "image": "images/ASUS Laptop3.png"
+    },
+    {
+        "id": 4,
+        "name":" Samsung Galaxy A25",
+        "price": 200,
+        "image": "images/Samsung Galaxy A25.png"
+    },
+    {
+        "id": 5,
+        "name":" Samsung Galaxy A15",
+        "price": 300,
+        "image": "images/Samsung Galaxy A15.png"
+    },
+    {
+        "id": 6,
+        "name":" Samsung Galaxy A05",
+        "price": 200,
+        "image": "images/Samsung Galaxy A05.png"
+    },
+    {
+        "id": 7,
+        "name":" Headphones",
+        "price": 200,
+        "image": "images/Headphones1.png"
+    },
+    {
+        "id": 8,
+        "name":" Headphones",
+        "price": 200,
+        "image": "images/Headphones2.png"
+    }
+
+]
